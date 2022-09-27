@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session4>
+    <!-- 1 -->
+    <Book>
+        <Title>Path to Paradise</Title>
+        <Author>David White</Author>
+        <Theme>Philosophy</Theme>
+        <Publisher>Abc Publication</Publisher>
+        <ISBN>11</ISBN>
+        <Price>$12481</Price>
+        <Edition>June 2000</Edition>
+    </Book>
+    <!-- 2 -->
+    <Message>
+        Hello World
+    </Message>
+    <!-- 3 -->
+    <program>
+        <comments>
+            This is a Simple java program.It will display the Message
+            "Hello World!" On execution.
+        </comments>
+        <code>
+            public static void main(String[] args)
+            System.out.println("Hello World!"); // Display the
+            string.
+        </code>
+    </program>
+   
+    <!-- 4 -->
+    <mail>
+        xmlns="https//www.facebook.com"
+        xmlns:xsi="http//www.abc.com"
+        xsi:schemaLocation="session4.xsd"
+
+        <to>John</to>
+        <from>Jordan</from>
+        <header>Schedular</header>
+        <body>3rd March Monday, 7:30 PM: board meeting!</body>
+    </mail>
+
+    <!-- 5 -->
+    <Book>
+    <Title>A cup of tea</Title>
+    <Author>
+    <Name>Dennis Compton</Name>
+    </Author>
+    <Author>
+    <Name>George Ford</Name>
+    </Author>
+    <Publisher>
+    <Name>Orange</Name>
+    </Publisher>
+    </Book>
+    
+    <!-- 6 -->
+    <Books>
+        Apocalypse written by<Author>Mary Jane</Author>is of Genre<Type>Fiction</Type>
+    </Books>
+    <!-- 7 -->
+        <book_name>The Da Vinci code</book_name>
+        <TotalNoOfpages>360</TotalNoOfpages>
+        <Author_Name>Dan Brown</Author_Name>
+</session4>
